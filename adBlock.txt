@@ -14,7 +14,7 @@ www.bilibili.com##.recommended-swipe
 www.bilibili.com##.banner-link
 
 ! 2022-07-25 https://m.1biqug.com
-||xdyh8ch.ahfy.me/blxn_2626_1_gjlixjs?69200168498598$script,domain=m.1biqug.com
+||xdyh8ch.ahfy.me$script,domain=m.1biqug.com
 
 ! 2022-07-25 https://m.1biqug.com
 m.1biqug.com##.youxiu
