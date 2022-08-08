@@ -1,20 +1,3 @@
-[Adblock Plus 2.0]
-! Checksum: cnOaygq4ZNJartwJkpYuTg
-! Title: mxisx112|adBlock
-! Description: Full version of AdRules AdGuard Filters List
-! Version: 2022/07/25 18:11:45
-! Total count: 199157
-
-! 2022-07-17 https://www.bilibili.com
-www.bilibili.com##.carousel-area > .carousel > .carousel-container
-www.bilibili.com##.carousel-area
-www.bilibili.com##.recommended-swipe
-||i0.hdslb.com/bfs/*.png@*0h_1*$image
-||i0.hdslb.com/bfs/archive/eb538a44cdb8bbd3692df0cd68e59656734ed798.png@3840w_360h_1c_90*$image
-www.bilibili.com##.banner-link
-
-! 2022-07-25 https://m.1biqug.com
-||xdyh8ch.ahfy.me$script,domain=m.1biqug.com
-
-! 2022-07-25 https://m.1biqug.com
-m.1biqug.com##.youxiu
+/https://cloud.tencent.com/developer/.*/
+/https://developer.aliyun.com/.*/
+/https://bbs.huaweicloud.com/.*/
